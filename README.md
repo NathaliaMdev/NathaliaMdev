@@ -16,9 +16,8 @@
   <img align="center" alt="Nathy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nathy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nathy-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="right" alt="Nathy-pic" height="150" style="border-radius:50px" src="https://github.com/NathaliaMdev/Kitty/blob/main/image_processing20210902-22246-1idj841.gif">
+  <img align="right" alt="Nathy-pic" height="150" style="border-radius:50px" src="https://raw.githubusercontent.com/NathaliaMdev/Kitty/main/image_processing20210902-22246-1idj841.gif">
   
-  src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
  
 
