@@ -16,7 +16,7 @@
   <img align="center" alt="Nathy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nathy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nathy-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="right" alt="Nathy-pic" src="https://drive.google.com/drive/folders/1h7GuIm68R4cwNO0fmsE1jjE_VKMk0vqk">
+  <img align="right" alt="Nathy-pic" src="https://discord.com/channels/568593468755017730/568593468755017732/997217935217139803">
 </div>
 
  ##
