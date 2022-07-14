@@ -16,11 +16,11 @@
   <img align="center" alt="Nathy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nathy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nathy-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="right" alt="Nathy-pic" height="150" style="border-radius:50px";
-  src="https://raw.githubusercontent.com/NathaliaMdev/Kitty/main/image_processing20210902-22246-1idj841">
-  
+   
 </div>
 
+ ##
+ 
 <div> 
  
   <a href = "nathalia.meira@hotmail.com"><img  src="https://img.shields.io/badge/H-Hotmail-blue?style=for-the-badge&logo=hotmail" target="_blank"></a>
